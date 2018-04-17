@@ -9,7 +9,7 @@ Für die Teilnahme am Workshop "Domain-Driven Design und Microservices" auf der 
 
 * Das SBT-Build-Tool. Installationsanleitung: https://www.scala-sbt.org/1.x/docs/Setup.html Grundsätzlich funktioniert Lagom auch mit Maven, aber die Unterstützung in sbt ist zuverlässiger / ausgereifter.
 
-* Eine Entwicklungsumgebung Ihrer Wahl. Bewährt hat sich zum Beispiel IntelliJ CE - https://www.jetbrains.com/idea/download/-  mit Scala-Plugin (Informationen: https://plugins.jetbrains.com/plugin/1347-scala - Download über Einstellungen->Plugins in IntelliJ). Wir werden in Java programmieren, aber die Unterstützung für das sbt build tool ist in IntelliJ im Scala-Plugin implementiert. Natürlich geht auch ein Editor (Emacs, Vim, Sublime, Atom, VS Code..)
+* Eine Entwicklungsumgebung Ihrer Wahl. Bewährt hat sich zum Beispiel IntelliJ CE - https://www.jetbrains.com/idea/download/ -  mit Scala-Plugin (Informationen: https://plugins.jetbrains.com/plugin/1347-scala - Download über Einstellungen->Plugins in IntelliJ). Wir werden in Java programmieren, aber die Unterstützung für das sbt build tool ist in IntelliJ im Scala-Plugin implementiert. Natürlich geht auch ein Editor (Emacs, Vim, Sublime, Atom, VS Code..)
 
 * Um sicher zu gehen, dass alles funktioniert, laden Sie das Lagom "Hello World" Projekt für Java & sbt herunter: https://www.lagomframework.com/get-started-java-sbt.html , importieren Sie das Projekt in Ihre Entwicklungsumgebung. Wenn Sie Änderungen vornehmen und es kompilieren können, wird auch auf dem Workshop alles klappen. So haben Sie auch sichergestellt, dass die meisten benötigten Dependencies bereits heruntergeladen sind.
 
