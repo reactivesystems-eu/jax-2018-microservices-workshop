@@ -13,7 +13,7 @@ Für die Teilnahme am Workshop "Domain-Driven Design und Microservices" auf der 
 
 * Um sicher zu gehen, dass alles funktioniert, laden Sie das Lagom "Hello World" Projekt für Java & sbt herunter: https://www.lagomframework.com/get-started-java-sbt.html , importieren Sie das Projekt in Ihre Entwicklungsumgebung. Wenn Sie Änderungen vornehmen und es kompilieren können, wird auch auf dem Workshop alles klappen. So haben Sie auch sichergestellt, dass die meisten benötigten Dependencies bereits heruntergeladen sind.
 
-* Der Source Code für das Beispielprojekt. Dieses wird in den nächsten Tagen auf Github gestellt, unter https://github.com/reactivesystems-eu/jax-2018-microservices-workshop/ Bitte schauen Sie am Wochenende vor dem Workshop dort nach und laden es herunter!
+* Den Source Code für das Beispielprojekt. Dieses wird in den nächsten Tagen auf Github gestellt, unter https://github.com/reactivesystems-eu/jax-2018-microservices-workshop/ Bitte schauen Sie am Wochenende vor dem Workshop dort nach und laden es herunter!
 
 Bis Montag!
 
