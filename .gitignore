@@ -1,14 +1,27 @@
+# IDEA
+target
+ideatarget
+.target
+.idea
+
+# sbt 
+bin
+.cache
+.cache-main
+.cache-tests
+.classpath
+.project
+.tmpBin
+.factorypath
+.settings
+logs
+
+
 # Compiled class file
 *.class
 
 # Log file
 *.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
 *.jar
