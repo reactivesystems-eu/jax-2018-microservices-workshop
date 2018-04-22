@@ -16,8 +16,8 @@ Natürlich geht auch ein Editor (Emacs, Vim, Sublime, Atom, VS Code..)
 
 * Um sicher zu gehen, dass alles funktioniert, laden Sie das Lagom "Hello World" Projekt für Java & sbt herunter: https://www.lagomframework.com/get-started-java-sbt.html , importieren Sie das Projekt in Ihre Entwicklungsumgebung. Wenn Sie Änderungen vornehmen und es kompilieren können, wird auch auf dem Workshop alles klappen. So haben Sie auch sichergestellt, dass die meisten benötigten Dependencies bereits heruntergeladen sind.
 
-* Den Source Code für das Beispielprojekt. Hier gibt es leider krankheitsbedingt eine kleine Verzögerung, aber er wird zum Workshop-Beginn unter https://github.com/reactivesystems-eu/jax-2018-microservices-workshop/ zur Verfügung stehen. Bitte schauen Sie zu Beginn oder kurz vor dem Workshop noch einmal nach und laden es herunter.
-
+* Den Source Code für das Beispielprojekt. Einfach dieses Repository clonen: `git clone git@github.com:reactivesystems-eu/jax-2018-microservices-workshop.git` 
+ 
 Bis Montag!
 
 
