@@ -14,9 +14,9 @@ Natürlich geht auch ein Editor (Emacs, Vim, Sublime, Atom, VS Code..)
 
 * Ein HTTP-Client. Entweder für die Kommandozeile, wie https://httpie.org , oder grafisch, wie https://www.getpostman.com
 
-* Um sicher zu gehen, dass alles funktioniert, laden Sie das Lagom "Hello World" Projekt für Java & sbt herunter: https://www.lagomframework.com/get-started-java-sbt.html , importieren Sie das Projekt in Ihre Entwicklungsumgebung. Wenn Sie Änderungen vornehmen und es kompilieren können, wird auch auf dem Workshop alles klappen. So haben Sie auch sichergestellt, dass die meisten benötigten Dependencies bereits heruntergeladen sind.
-
 * Den Source Code für das Beispielprojekt. Einfach dieses Repository clonen: `git clone git@github.com:reactivesystems-eu/jax-2018-microservices-workshop.git` 
+
+Um sicher zu gehen, dass alles funktioniert, importieren Sie das Projekt in Ihre Entwicklungsumgebung. Wenn Sie es kompilieren können, sollte auch auf dem Workshop alles klappen. So haben Sie auch sichergestellt, dass die meisten benötigten Dependencies bereits heruntergeladen sind.
  
 Bis Montag!
 
