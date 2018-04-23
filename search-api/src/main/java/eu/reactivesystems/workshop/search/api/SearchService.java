@@ -23,8 +23,9 @@ public interface SearchService extends Service {
     @Override
     default Descriptor descriptor() {
         return named("search").withCalls(
-                restCall(Method.GET, "api/search/health", this::healthCheck)
+                restCall(Method.GET, "/api/search/health", this::healthCheck)
         ).withPathParamSerializer(
-                UUID.class, PathParamSerializers.required("UUID", UUID::fromString, UUID::toString));
+                UUID.class, PathParamSerializers.required("UUID", UUID::fromString, UUID::toString))
+                .withAutoAcl(true);
     }
 }

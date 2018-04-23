@@ -24,8 +24,10 @@ public interface TransactionService extends Service {
     @Override
     default Descriptor descriptor() {
         return named("transaction").withCalls(
-                restCall(Method.GET, "api/listing/health", this::healthCheck)
+                restCall(Method.GET, "/api/transaction/health", this::healthCheck)
         ).withPathParamSerializer(
-                UUID.class, PathParamSerializers.required("UUID", UUID::fromString, UUID::toString));
+                UUID.class, PathParamSerializers.required("UUID", UUID::fromString, UUID::toString))
+                .withAutoAcl(true);
+
     }
 }
